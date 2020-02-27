@@ -14,7 +14,7 @@ public class MainClass {
 		int num=Integer.parseInt(n1);
 		objcal.setNumA(num);
 		
-		System.out.println("enter second number");
+		System.out.println("enter second number:");
 		String num2=s.nextLine();
 		int n=Integer.parseInt(num2);
 		objcal.setNumB(n);
